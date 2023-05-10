@@ -1,3 +1,4 @@
+# Some changes were made
 # Math formulas
 ## Area
 - Circle: S = πR²
